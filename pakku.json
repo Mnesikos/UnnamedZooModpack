@@ -1,0 +1,14 @@
+{
+    "name": "Unnamed Zoo Modpack",
+    "version": "0.0.1",
+    "overrides": [
+        "config",
+        "defaultconfigs",
+        "kubejs",
+        "patchouli_books"
+    ],
+    "client_overrides": [
+        "resourcepacks",
+        "shaderpacks"
+    ]
+}
