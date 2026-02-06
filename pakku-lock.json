@@ -1,0 +1,10 @@
+{
+    "target": "curseforge",
+    "mc_versions": [
+        "1.20.1"
+    ],
+    "loaders": {
+        "forge": "47.4.10"
+    },
+    "lockfile_version": 1
+}
