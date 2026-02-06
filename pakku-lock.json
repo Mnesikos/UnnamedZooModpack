@@ -6,5 +6,442 @@
     "loaders": {
         "forge": "47.4.10"
     },
+    "projects": [
+        {
+            "pakku_id": "Fp7Kt7rd4Ca6727t",
+            "type": "RESOURCE_PACK",
+            "slug": {
+                "curseforge": "dragns-l-o-adopt-a-pet"
+            },
+            "name": {
+                "curseforge": "Adopt a Pet!! [ Dog and Cat ]"
+            },
+            "id": {
+                "curseforge": "1363061"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "2.1 Adopt a Pet!.zip",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7497/048/2.1 Adopt a Pet!.zip",
+                    "id": "7497048",
+                    "parent_id": "1363061",
+                    "hashes": {
+                        "sha1": "6b5d439b59931fea6b893bf3b4d4617faab0c49c",
+                        "md5": "1b3be37253e3d40a2a422d15db39d2f7"
+                    },
+                    "required_dependencies": [
+                        "1175609"
+                    ],
+                    "size": 882208,
+                    "date_published": "2026-01-20T22:31:29.723Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "WkHPgAewVEU9LHyi",
+            "type": "SHADER",
+            "slug": {
+                "curseforge": "complementary-reimagined"
+            },
+            "name": {
+                "curseforge": "Complementary Shaders - Reimagined"
+            },
+            "id": {
+                "curseforge": "627557"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ComplementaryReimagined_r5.7.1.zip",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4",
+                        "1.20.3"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7574/259/ComplementaryReimagined_r5.7.1.zip",
+                    "id": "7574259",
+                    "parent_id": "627557",
+                    "hashes": {
+                        "sha1": "b560f646a124d5204b1fb7321fec373b9c346fa5",
+                        "md5": "bc5f557bb6844d27e7b7891170544ea9"
+                    },
+                    "required_dependencies": [],
+                    "size": 522970,
+                    "date_published": "2026-02-04T08:11:20.293Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "vzPFoHXlWMUJcCZI",
+            "type": "SHADER",
+            "slug": {
+                "curseforge": "complementary-unbound"
+            },
+            "name": {
+                "curseforge": "Complementary Shaders - Unbound"
+            },
+            "id": {
+                "curseforge": "385587"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ComplementaryUnbound_r5.7.1.zip",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4",
+                        "1.20.3"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7574/260/ComplementaryUnbound_r5.7.1.zip",
+                    "id": "7574260",
+                    "parent_id": "385587",
+                    "hashes": {
+                        "sha1": "95883b516298ff4cf1a67ff512086eb67aeedd98",
+                        "md5": "b535d194c7115b360860e226c65ae3f2"
+                    },
+                    "required_dependencies": [],
+                    "size": 522973,
+                    "date_published": "2026-02-04T08:12:10.420Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "lnhxzppsg6bPosN9",
+            "type": "RESOURCE_PACK",
+            "slug": {
+                "curseforge": "create-sophisticated-backpacks"
+            },
+            "name": {
+                "curseforge": "Create Style Sophisticated Backpacks"
+            },
+            "id": {
+                "curseforge": "899330"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "CreateSophisticatedBackpacks.zip",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.4"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6157/360/CreateSophisticatedBackpacks.zip",
+                    "id": "6157360",
+                    "parent_id": "899330",
+                    "hashes": {
+                        "sha1": "0a119ab68a6b2cb824d545c0dc2dc44b1339cc94",
+                        "md5": "263463c3d22451b42cd446cfe289a1ab"
+                    },
+                    "required_dependencies": [],
+                    "size": 556651,
+                    "date_published": "2025-02-04T14:18:30.310Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "EnkPYbZYDy8HyhR2",
+            "type": "RESOURCE_PACK",
+            "slug": {
+                "curseforge": "create-sophisticated-storages"
+            },
+            "name": {
+                "curseforge": "Create Style Sophisticated Storages"
+            },
+            "id": {
+                "curseforge": "1282587"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "CreateSophStorage.zip",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.4"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6628/885/CreateSophStorage.zip",
+                    "id": "6628885",
+                    "parent_id": "1282587",
+                    "hashes": {
+                        "sha1": "b31741fa1f8dc44294390ef22577ef17517fe406",
+                        "md5": "09adfe364d327cf28aca569d2dace237"
+                    },
+                    "required_dependencies": [
+                        "619320"
+                    ],
+                    "size": 613563,
+                    "date_published": "2025-06-08T09:35:41.170Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "0eqQbOeECuu0ekie",
+            "type": "RESOURCE_PACK",
+            "slug": {
+                "curseforge": "farmlife-remastered"
+            },
+            "name": {
+                "curseforge": "FarmLife Remastered ( Animal Overhaul! Horse, Cow, Pig, Sheep )"
+            },
+            "id": {
+                "curseforge": "1311617"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "5.2 FarmLife Remastered.zip",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7448/546/5.2 FarmLife Remastered.zip",
+                    "id": "7448546",
+                    "parent_id": "1311617",
+                    "hashes": {
+                        "sha1": "b9f128670579a2772f6b6a3ce56222516d032a21",
+                        "md5": "eb1f7c67764692a68a0583ac650a6bb7"
+                    },
+                    "required_dependencies": [
+                        "1131669"
+                    ],
+                    "size": 2389237,
+                    "date_published": "2026-01-11T23:33:01.227Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "1sCm1zvwdk1IKy2f",
+            "type": "RESOURCE_PACK",
+            "slug": {
+                "curseforge": "farmergui"
+            },
+            "name": {
+                "curseforge": "Farmer GUI"
+            },
+            "id": {
+                "curseforge": "918818"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Farmer GUI 1.20.1 [1.7.8].zip",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20",
+                        "1.20-Snapshot"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7389/248/Farmer GUI 1.20.1 [1.7.8].zip",
+                    "id": "7389248",
+                    "parent_id": "918818",
+                    "hashes": {
+                        "sha1": "d4cfafa3bd15f2b57322c66e5a0dd1590cd9e137",
+                        "md5": "febcfbba5cbb0b81a9aff4c8e757c6d6"
+                    },
+                    "required_dependencies": [],
+                    "size": 3083327,
+                    "date_published": "2025-12-28T17:41:50.713Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ie41xRGG51f1KIvw",
+            "type": "RESOURCE_PACK",
+            "slug": {
+                "curseforge": "glow-up"
+            },
+            "name": {
+                "curseforge": "Glow Up - Emissive Ores"
+            },
+            "id": {
+                "curseforge": "1162010"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "glow_up-1.5-1.20.1.zip",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7456/429/glow_up-1.5-1.20.1.zip",
+                    "id": "7456429",
+                    "parent_id": "1162010",
+                    "hashes": {
+                        "sha1": "65db4ed365298c17b8d5ed24ed19d8d8096f034c",
+                        "md5": "e03a34b5f7d40e215e17b01167c1c88d"
+                    },
+                    "required_dependencies": [],
+                    "size": 382112,
+                    "date_published": "2026-01-13T23:47:30.947Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "flgBdcMwLoPLSFQr",
+            "type": "RESOURCE_PACK",
+            "slug": {
+                "curseforge": "natures-zooventures-gui"
+            },
+            "name": {
+                "curseforge": "Nature's ZooVentures GUI"
+            },
+            "id": {
+                "curseforge": "1184644"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Nature's ZooVentures GUI 1.20-1.20.6-1.0.zip",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6129/60/Nature's ZooVentures GUI 1.20-1.20.6-1.0.zip",
+                    "id": "6129060",
+                    "parent_id": "1184644",
+                    "hashes": {
+                        "sha1": "882c2b5a8422e554025356d3e6e50d6ad66fd07f",
+                        "md5": "0c17e474110a6ebb6706ff449d94847b"
+                    },
+                    "required_dependencies": [],
+                    "size": 4603184,
+                    "date_published": "2025-01-27T01:31:07.823Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ZuMs1EZ6HRbZGXNa",
+            "type": "RESOURCE_PACK",
+            "slug": {
+                "curseforge": "simply-cats-16x-textures"
+            },
+            "name": {
+                "curseforge": "Simply Cats 16x Textures"
+            },
+            "id": {
+                "curseforge": "1377527"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Simply Cats 16x.zip",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7180/6/Simply Cats 16x.zip",
+                    "id": "7180006",
+                    "parent_id": "1377527",
+                    "hashes": {
+                        "sha1": "a0a5f5d6be377203d12238b2722abe4b6df4ae48",
+                        "md5": "beb6b87f70c497890d8caee63142ed3c"
+                    },
+                    "required_dependencies": [
+                        "332910"
+                    ],
+                    "size": 554070,
+                    "date_published": "2025-11-02T21:40:13.297Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "CEp6cPjUdqTjPBSU",
+            "type": "RESOURCE_PACK",
+            "slug": {
+                "curseforge": "aquaculture-updated"
+            },
+            "name": {
+                "curseforge": "Updated Aquaculture"
+            },
+            "id": {
+                "curseforge": "640645"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "updated_aquaculture-1.1.zip",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4",
+                        "1.20.3"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6392/870/updated_aquaculture-1.1.zip",
+                    "id": "6392870",
+                    "parent_id": "640645",
+                    "hashes": {
+                        "sha1": "1c153018918de3d75417da9188b161ae850ab449",
+                        "md5": "b586f7c80fbf47ce459109dcc37971e6"
+                    },
+                    "required_dependencies": [],
+                    "size": 705425,
+                    "date_published": "2025-04-06T20:04:14.860Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "TLEgOLJBijuUPiJF",
+            "type": "RESOURCE_PACK",
+            "slug": {
+                "curseforge": "zawa-evolved-gui-dark-mode"
+            },
+            "name": {
+                "curseforge": "ZAWA: Evolved GUI - Dark mode"
+            },
+            "id": {
+                "curseforge": "908469"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ZAWA Dark GUI 1.20.1.zip",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6518/11/ZAWA Dark GUI 1.20.1.zip",
+                    "id": "6518011",
+                    "parent_id": "908469",
+                    "hashes": {
+                        "sha1": "e08f7767f91bf807ec7bda19e07f129580458116",
+                        "md5": "63d7a184388f80c51fc0956ebf092acb"
+                    },
+                    "required_dependencies": [],
+                    "size": 633986,
+                    "date_published": "2025-05-11T02:48:08.517Z"
+                }
+            ]
+        }
+    ],
     "lockfile_version": 1
 }
