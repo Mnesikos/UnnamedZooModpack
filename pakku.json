@@ -10,5 +10,130 @@
     "client_overrides": [
         "resourcepacks",
         "shaderpacks"
-    ]
+    ],
+    "projects": {
+        "ambientsounds": {
+            "side": "CLIENT"
+        },
+        "appleskin": {
+            "side": "CLIENT"
+        },
+        "better-advancements": {
+            "side": "CLIENT"
+        },
+        "blur-forge": {
+            "side": "CLIENT"
+        },
+        "bad-wither-no-cookie-reloaded": {
+            "side": "CLIENT"
+        },
+        "chat-heads": {
+            "side": "CLIENT"
+        },
+        "cherished-worlds": {
+            "side": "CLIENT"
+        },
+        "cleanview": {
+            "side": "CLIENT"
+        },
+        "colorful-hearts": {
+            "side": "CLIENT"
+        },
+        "colorwheel": {
+            "side": "CLIENT"
+        },
+        "colorwheel-patcher": {
+            "side": "CLIENT"
+        },
+        "controlling": {
+            "side": "CLIENT"
+        },
+        "crash-assistant": {
+            "side": "CLIENT"
+        },
+        "creativecore": {
+            "side": "CLIENT"
+        },
+        "ding": {
+            "side": "CLIENT"
+        },
+        "embeddium": {
+            "side": "CLIENT"
+        },
+        "entity-model-features": {
+            "side": "CLIENT"
+        },
+        "entity-texture-features-fabric": {
+            "side": "CLIENT"
+        },
+        "extreme-sound-muffler": {
+            "side": "CLIENT"
+        },
+        "falling-leaves-forge": {
+            "side": "CLIENT"
+        },
+        "farsight": {
+            "side": "CLIENT"
+        },
+        "flerovium": {
+            "side": "CLIENT"
+        },
+        "fusion-connected-textures": {
+            "side": "CLIENT"
+        },
+        "immediatelyfast": {
+            "side": "CLIENT"
+        },
+        "itemzoom": {
+            "side": "CLIENT"
+        },
+        "keep-stepping": {
+            "side": "CLIENT"
+        },
+        "mouse-tweaks": {
+            "side": "CLIENT"
+        },
+        "my-server-is-compatible": {
+            "side": "CLIENT"
+        },
+        "neoauth": {
+            "side": "CLIENT"
+        },
+        "oculus": {
+            "side": "CLIENT"
+        },
+        "ok-zoomer": {
+            "side": "CLIENT"
+        },
+        "particle-rain": {
+            "side": "CLIENT"
+        },
+        "radiant-gear": {
+            "side": "CLIENT"
+        },
+        "searchables": {
+            "side": "CLIENT"
+        },
+        "seasonhud": {
+            "side": "CLIENT"
+        },
+        "shoulder-surfing-reloaded": {
+            "side": "CLIENT"
+        },
+        "dynamiclights-reforged": {
+            "side": "CLIENT"
+        },
+        "sodium-options-api": {
+            "side": "CLIENT"
+        },
+        "tips": {
+            "side": "CLIENT"
+        },
+        "toast-control": {
+            "side": "CLIENT"
+        },
+        "raws-visual-keybinder": {
+            "side": "CLIENT"
+        }
+    }
 }
