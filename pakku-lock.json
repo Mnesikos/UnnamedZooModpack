@@ -4809,21 +4809,21 @@
             ]
         },
         {
-            "pakku_id": "iwdz5qV9iyGOG0xQ",
+            "pakku_id": "lmyynnUfseNyUoUm",
             "type": "MOD",
             "slug": {
-                "curseforge": "xaeros-minimap-fair-play-edition"
+                "curseforge": "xaeros-minimap"
             },
             "name": {
-                "curseforge": "Xaero's Minimap (Fair-play Edition)"
+                "curseforge": "Xaero's Minimap"
             },
             "id": {
-                "curseforge": "263466"
+                "curseforge": "263420"
             },
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "Xaeros_Minimap_FP24.2.0_Forge_1.20.jar",
+                    "file_name": "xaerominimap-forge-1.20.1-25.3.9.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -4832,16 +4832,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5548/212/Xaeros_Minimap_FP24.2.0_Forge_1.20.jar",
-                    "id": "5548212",
-                    "parent_id": "263466",
+                    "url": "https://edge.forgecdn.net/files/7583/601/xaerominimap-forge-1.20.1-25.3.9.jar",
+                    "id": "7583601",
+                    "parent_id": "263420",
                     "hashes": {
-                        "sha1": "f1ff67cf781da9769a1e0260f8925e6889b751b7",
-                        "md5": "154a3a691171d8abdb313937d572a2bf"
+                        "sha1": "becc4f4feeb741fcc96f00fbf757f14f5dc1b6a5",
+                        "md5": "07f4af5abffcfcea42e45c6a377e6584"
                     },
                     "required_dependencies": [],
-                    "size": 1470125,
-                    "date_published": "2024-07-20T11:25:03.767Z"
+                    "size": 2146250,
+                    "date_published": "2026-02-06T09:39:56.937Z"
                 }
             ]
         },
