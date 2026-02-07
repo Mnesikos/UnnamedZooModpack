@@ -9,6 +9,9 @@
     "projects": [
         {
             "pakku_id": "Fp7Kt7rd4Ca6727t",
+            "pakku_links": [
+                "d4QrPsA7jDKuN5N0"
+            ],
             "type": "RESOURCE_PACK",
             "slug": {
                 "curseforge": "dragns-l-o-adopt-a-pet"
@@ -232,6 +235,43 @@
                     "required_dependencies": [],
                     "size": 47428,
                     "date_published": "2023-09-27T04:39:49.087Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "pS5IAXdXkVVyzjKI",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "aquaculture"
+            },
+            "name": {
+                "curseforge": "Aquaculture 2"
+            },
+            "id": {
+                "curseforge": "60028"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Aquaculture-1.20.1-2.5.7.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7331/172/Aquaculture-1.20.1-2.5.7.jar",
+                    "id": "7331172",
+                    "parent_id": "60028",
+                    "hashes": {
+                        "sha1": "308a0e92401e29bdb9cae24532a3b07a1bf6e757",
+                        "md5": "f39d02c30d59ec516e3221f9f7643909"
+                    },
+                    "required_dependencies": [],
+                    "size": 601839,
+                    "date_published": "2025-12-14T05:36:23.493Z"
                 }
             ]
         },
@@ -465,6 +505,44 @@
                     "required_dependencies": [],
                     "size": 591397,
                     "date_published": "2026-01-05T11:43:31.017Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "GSQTcPueSKXd6vu4",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "bens-sharks"
+            },
+            "name": {
+                "curseforge": "Ben's Sharks"
+            },
+            "id": {
+                "curseforge": "987388"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "benssharks-1.3.0-forge-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7401/36/benssharks-1.3.0-forge-1.20.1.jar",
+                    "id": "7401036",
+                    "parent_id": "987388",
+                    "hashes": {
+                        "sha1": "36c6b054b98b48cfca8e5ec7d827727c784ad035",
+                        "md5": "657cde57e637069b4d704f91e730b72d"
+                    },
+                    "required_dependencies": [
+                        "388172"
+                    ],
+                    "size": 2952922,
+                    "date_published": "2025-12-31T16:14:06.043Z"
                 }
             ]
         },
@@ -921,6 +999,44 @@
                     "required_dependencies": [],
                     "size": 11011,
                     "date_published": "2023-06-17T11:54:20.053Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "2d4m7zY1S2r1J1bR",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cloth-config"
+            },
+            "name": {
+                "curseforge": "Cloth Config API (Fabric/Forge/NeoForge)"
+            },
+            "id": {
+                "curseforge": "348521"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cloth-config-11.1.136-forge.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5729/105/cloth-config-11.1.136-forge.jar",
+                    "id": "5729105",
+                    "parent_id": "348521",
+                    "hashes": {
+                        "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
+                        "md5": "ca5de5acbcb4a30c010aa6953bd7ef53"
+                    },
+                    "required_dependencies": [],
+                    "size": 1181413,
+                    "date_published": "2024-09-16T17:13:48.940Z"
                 }
             ]
         },
@@ -1617,6 +1733,47 @@
             ]
         },
         {
+            "pakku_id": "b0PEtWqgpSccRdIt",
+            "pakku_links": [
+                "E1iyMQYHpHbdof6T"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "deep-blue-a-bettas-aquatics-addon"
+            },
+            "name": {
+                "curseforge": "Deep Blue: A Bettas & Aquatics Addon!"
+            },
+            "id": {
+                "curseforge": "1003099"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Deep-Blue-Addon-1.20.1-1.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5813/304/Deep-Blue-Addon-1.20.1-1.2.jar",
+                    "id": "5813304",
+                    "parent_id": "1003099",
+                    "hashes": {
+                        "sha1": "18c82a76d9879c588cf65cdc99649f76876ffa6b",
+                        "md5": "475e9674dcd049c54f4444200fcbd398"
+                    },
+                    "required_dependencies": [
+                        "842591"
+                    ],
+                    "size": 384948,
+                    "date_published": "2024-10-15T02:55:46.127Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "PerYWKDzR7IXUf2o",
             "type": "MOD",
             "slug": {
@@ -1699,6 +1856,123 @@
             ]
         },
         {
+            "pakku_id": "MgwEjVMqo03GPpbS",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "dragns-livestock-overhaul"
+            },
+            "name": {
+                "curseforge": "DragN's Livestock Overhaul!"
+            },
+            "id": {
+                "curseforge": "1131669"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "DragNs_Livestock_Overhaul-1.20.1-3.5.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7578/482/DragNs_Livestock_Overhaul-1.20.1-3.5.jar",
+                    "id": "7578482",
+                    "parent_id": "1131669",
+                    "hashes": {
+                        "sha1": "a2c7b5de21e98386ccf74138ba684f81c4d0672f",
+                        "md5": "6480ac1d5993fceaa08d0651b32e2c9a"
+                    },
+                    "required_dependencies": [
+                        "388172",
+                        "306770"
+                    ],
+                    "size": 8244003,
+                    "date_published": "2026-02-05T06:13:35.437Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "d4QrPsA7jDKuN5N0",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "dragns-livestock-overhaul-pets-addon"
+            },
+            "name": {
+                "curseforge": "DragN's Livestock Overhaul: Pets Addon!"
+            },
+            "id": {
+                "curseforge": "1175609"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "DragNs_Pet_Overhaul-1.20.1-2.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7581/576/DragNs_Pet_Overhaul-1.20.1-2.0.1.jar",
+                    "id": "7581576",
+                    "parent_id": "1175609",
+                    "hashes": {
+                        "sha1": "8ccf6bdc43ee5e04a21c9494de3b4b279d678d8b",
+                        "md5": "af29c69722ccd23df2daba8cecef6e8f"
+                    },
+                    "required_dependencies": [
+                        "1131669",
+                        "388172"
+                    ],
+                    "size": 1115225,
+                    "date_published": "2026-02-05T21:51:13.187Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "E1iyMQYHpHbdof6T",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "dragns-bettas-aquatics"
+            },
+            "name": {
+                "curseforge": "DragN’s Bettas & Aquatics!"
+            },
+            "id": {
+                "curseforge": "842591"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "DragN_Bettas-1.20.1-1.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6511/872/DragN_Bettas-1.20.1-1.3.jar",
+                    "id": "6511872",
+                    "parent_id": "842591",
+                    "hashes": {
+                        "sha1": "62dea3fbf96b6c3efc1ae3db98e0170105f40c63",
+                        "md5": "96447c56d5941e5644e99edf401d9aba"
+                    },
+                    "required_dependencies": [
+                        "563928",
+                        "388172"
+                    ],
+                    "size": 943029,
+                    "date_published": "2025-05-09T09:13:39.327Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "6kjY2J4KcXLX1EjU",
             "type": "MOD",
             "slug": {
@@ -1733,6 +2007,48 @@
                     ],
                     "size": 141744,
                     "date_published": "2024-03-04T09:07:28.933Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "xIKABkBaM53XpluC",
+            "pakku_links": [
+                "s416pkNWAnuevS4w"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "eco-regions-zawa-add-on"
+            },
+            "name": {
+                "curseforge": "Eco Regions: A ZAWA Add-on"
+            },
+            "id": {
+                "curseforge": "1067568"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ecoregions-1.20.1-2.1.0-EcoRegionsThirdRelease.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://edge.forgecdn.net/files/7204/191/ecoregions-1.20.1-2.1.0-EcoRegionsThirdRelease.jar",
+                    "id": "7204191",
+                    "parent_id": "1067568",
+                    "hashes": {
+                        "sha1": "5de5df1a8ce31ecc5c65c22543d9d3fdd8ff4adb",
+                        "md5": "c8f30a8585db83f14aa3970ee7df54c0"
+                    },
+                    "required_dependencies": [
+                        "581942"
+                    ],
+                    "size": 1243356,
+                    "date_published": "2025-11-09T18:33:50.977Z"
                 }
             ]
         },
@@ -1924,6 +2240,44 @@
                     ],
                     "size": 2363566,
                     "date_published": "2025-12-05T12:36:04.637Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "3YozP56tgknm6qgU",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "zawa-essentials"
+            },
+            "name": {
+                "curseforge": "Essentials - A ZAWA Addon"
+            },
+            "id": {
+                "curseforge": "912479"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "zawaessentials-1.20.1-1.0.0-IntAn3-alpha3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6820/57/zawaessentials-1.20.1-1.0.0-IntAn3-alpha3.jar",
+                    "id": "6820057",
+                    "parent_id": "912479",
+                    "hashes": {
+                        "sha1": "6a0552fd3d81a64d866a0e263db1ec9cc93ce39c",
+                        "md5": "47dd0518fce0556e2c518b821ac37d14"
+                    },
+                    "required_dependencies": [
+                        "581942"
+                    ],
+                    "size": 1341521,
+                    "date_published": "2025-07-28T05:57:46.983Z"
                 }
             ]
         },
@@ -2206,6 +2560,9 @@
         },
         {
             "pakku_id": "0eqQbOeECuu0ekie",
+            "pakku_links": [
+                "MgwEjVMqo03GPpbS"
+            ],
             "type": "RESOURCE_PACK",
             "slug": {
                 "curseforge": "farmlife-remastered"
@@ -2974,6 +3331,46 @@
             ]
         },
         {
+            "pakku_id": "piRoLSxBn7Q7GrMx",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "hybrid-aquatic"
+            },
+            "name": {
+                "curseforge": "Hybrid Aquatic"
+            },
+            "id": {
+                "curseforge": "834427"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "[1.20.1-Forge] Hybrid Aquatic 1.5.4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7374/781/[1.20.1-Forge] Hybrid Aquatic 1.5.4.jar",
+                    "id": "7374781",
+                    "parent_id": "834427",
+                    "hashes": {
+                        "sha1": "099ac8748561ad56b13b64919aebaecc0af80644",
+                        "md5": "110738b83d03b8d64241bef0e6f586b7"
+                    },
+                    "required_dependencies": [
+                        "936015",
+                        "351264",
+                        "388172"
+                    ],
+                    "size": 4029103,
+                    "date_published": "2025-12-25T00:13:20.723Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "fZyDoWktTkOP3N6k",
             "type": "MOD",
             "slug": {
@@ -3625,6 +4022,47 @@
             ]
         },
         {
+            "pakku_id": "0P9MUAeADbxzpOsI",
+            "pakku_links": [
+                "s416pkNWAnuevS4w"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "lil-critters"
+            },
+            "name": {
+                "curseforge": "Lil' Critters - A ZAWA Addon"
+            },
+            "id": {
+                "curseforge": "307465"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "lilcritters-1.20.1-1.0.2-TropEx3-alpha1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6516/726/lilcritters-1.20.1-1.0.2-TropEx3-alpha1.jar",
+                    "id": "6516726",
+                    "parent_id": "307465",
+                    "hashes": {
+                        "sha1": "7bf0d4e0839471e60ea9da6bfd36f4c230f0cc14",
+                        "md5": "9f993fd0a46eb816694954cec7ccf68d"
+                    },
+                    "required_dependencies": [
+                        "581942"
+                    ],
+                    "size": 1431506,
+                    "date_published": "2025-05-10T18:08:12.797Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "OQjBhRShrTWxgi5v",
             "type": "MOD",
             "slug": {
@@ -3732,6 +4170,44 @@
                     "required_dependencies": [],
                     "size": 58508,
                     "date_published": "2023-06-12T23:18:59.260Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "3P4NpD2t9DOOV21j",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "longwings"
+            },
+            "name": {
+                "curseforge": "Longwings"
+            },
+            "id": {
+                "curseforge": "1277025"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Longwings-v0.9.4-1.20.1-Forge.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/7227/531/Longwings-v0.9.4-1.20.1-Forge.jar",
+                    "id": "7227531",
+                    "parent_id": "1277025",
+                    "hashes": {
+                        "sha1": "63597c22d1a2b1d4f40b80f685417973ece55edf",
+                        "md5": "b025058fb2e8b033d6308c9088f82516"
+                    },
+                    "required_dependencies": [],
+                    "size": 1892164,
+                    "date_published": "2025-11-16T05:42:57.813Z"
                 }
             ]
         },
@@ -4661,6 +5137,43 @@
             ]
         },
         {
+            "pakku_id": "JsKW19OnQkKUWFKU",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "rainbow-reef"
+            },
+            "name": {
+                "curseforge": "Rainbow Reef"
+            },
+            "id": {
+                "curseforge": "936849"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "rainbowreef-2.4-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6795/700/rainbowreef-2.4-1.20.1.jar",
+                    "id": "6795700",
+                    "parent_id": "936849",
+                    "hashes": {
+                        "sha1": "523215456ef153d701327fad49221b4b589c785b",
+                        "md5": "12842aa93d5f28493863ec6152354bd5"
+                    },
+                    "required_dependencies": [],
+                    "size": 3850665,
+                    "date_published": "2025-07-21T17:20:47.740Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "vXEvBopOJOVXUvrc",
             "type": "MOD",
             "side": "CLIENT",
@@ -4694,6 +5207,43 @@
                     "required_dependencies": [],
                     "size": 97122,
                     "date_published": "2026-01-31T21:06:03.263Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "1YyZGE9ma6VfXsBj",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "realistic-horse-genetics"
+            },
+            "name": {
+                "curseforge": "Realistic Horse Genetics"
+            },
+            "id": {
+                "curseforge": "339184"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "realistic_horse_genetics-1.20.1-13.5.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5752/402/realistic_horse_genetics-1.20.1-13.5.jar",
+                    "id": "5752402",
+                    "parent_id": "339184",
+                    "hashes": {
+                        "sha1": "4f0790c358b2c666b9699dbfc2d3d1996579d1c3",
+                        "md5": "63039a3f51827690bd0d12d2b16719e5"
+                    },
+                    "required_dependencies": [],
+                    "size": 1120267,
+                    "date_published": "2024-09-24T15:25:09.170Z"
                 }
             ]
         },
@@ -5031,7 +5581,46 @@
             ]
         },
         {
+            "pakku_id": "xaRWiY8atDBar19M",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "simply-cats"
+            },
+            "name": {
+                "curseforge": "Simply Cats"
+            },
+            "id": {
+                "curseforge": "332910"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "simplycats-1.20.1-0.3.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6689/195/simplycats-1.20.1-0.3.0.jar",
+                    "id": "6689195",
+                    "parent_id": "332910",
+                    "hashes": {
+                        "sha1": "2de92590d84279fea56ea5aae9d516de3764ca47",
+                        "md5": "c3078fdd114cae3c244e0f2eb61c619b"
+                    },
+                    "required_dependencies": [],
+                    "size": 2344532,
+                    "date_published": "2025-06-23T23:30:13.373Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "ZuMs1EZ6HRbZGXNa",
+            "pakku_links": [
+                "xaRWiY8atDBar19M"
+            ],
             "type": "RESOURCE_PACK",
             "slug": {
                 "curseforge": "simply-cats-16x-textures"
@@ -5149,6 +5738,42 @@
             ]
         },
         {
+            "pakku_id": "B2PxPSolj4XATi8h",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "starcatcher"
+            },
+            "name": {
+                "curseforge": "Starcatcher"
+            },
+            "id": {
+                "curseforge": "1357603"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "starcatcher-2.2.1-FORGE-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7582/886/starcatcher-2.2.1-FORGE-1.20.1.jar",
+                    "id": "7582886",
+                    "parent_id": "1357603",
+                    "hashes": {
+                        "sha1": "1e9345a91af6e11fd43216c58d8e1a616cde346e",
+                        "md5": "9a6e4e094e2a1b17c9605671def10f50"
+                    },
+                    "required_dependencies": [],
+                    "size": 3744519,
+                    "date_published": "2026-02-06T04:19:06.460Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Bc6PctlpbeQqesB0",
             "type": "MOD",
             "slug": {
@@ -5256,6 +5881,44 @@
                     "required_dependencies": [],
                     "size": 107532,
                     "date_published": "2025-03-10T23:40:16.850Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "S3zCqCaEnHHrTSpi",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "tide"
+            },
+            "name": {
+                "curseforge": "Tide 2"
+            },
+            "id": {
+                "curseforge": "884685"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "tide-forge-1.20.1-2.0.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7586/275/tide-forge-1.20.1-2.0.3.jar",
+                    "id": "7586275",
+                    "parent_id": "884685",
+                    "hashes": {
+                        "sha1": "70db6edc3b2e58ce51d69a3542892935b2ba28f1",
+                        "md5": "ec9633a7b3a3613afb2d79016666055d"
+                    },
+                    "required_dependencies": [
+                        "348521"
+                    ],
+                    "size": 2006809,
+                    "date_published": "2026-02-06T21:26:37.910Z"
                 }
             ]
         },
@@ -5490,6 +6153,122 @@
             ]
         },
         {
+            "pakku_id": "kd8pH6tLHKHLmuvc",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "wonderous-sea-endlessocean"
+            },
+            "name": {
+                "curseforge": "Wonderous Sea - An Endless Ocean Adventure"
+            },
+            "id": {
+                "curseforge": "1382731"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "wonderoussea-1.0.4-forge-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7485/187/wonderoussea-1.0.4-forge-1.20.1.jar",
+                    "id": "7485187",
+                    "parent_id": "1382731",
+                    "hashes": {
+                        "sha1": "bc84ec2fbcca50e174d2fce814ac068d482105a1",
+                        "md5": "0be41235ae44b0b1d10c361a7d69c563"
+                    },
+                    "required_dependencies": [
+                        "388172"
+                    ],
+                    "size": 5742277,
+                    "date_published": "2026-01-19T01:08:59.500Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "mPyERdPiAX2ssS9c",
+            "pakku_links": [
+                "s416pkNWAnuevS4w"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "wonders-of-the-world"
+            },
+            "name": {
+                "curseforge": "Wonders Of The World: A ZAWA Addon"
+            },
+            "id": {
+                "curseforge": "1008139"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "wondersoftheworld-1.20.1-2.1.0-WOTWFourthRelease.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://edge.forgecdn.net/files/7218/945/wondersoftheworld-1.20.1-2.1.0-WOTWFourthRelease.jar",
+                    "id": "7218945",
+                    "parent_id": "1008139",
+                    "hashes": {
+                        "sha1": "a8c481b513615ad05ef34a25e4f8073b7dc4bb8b",
+                        "md5": "9dcfc2941a62319b582cb38aa711cb13"
+                    },
+                    "required_dependencies": [
+                        "581942"
+                    ],
+                    "size": 3145309,
+                    "date_published": "2025-11-13T20:33:28.920Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "TnmXFXYW0cbINdgN",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "working-dogs"
+            },
+            "name": {
+                "curseforge": "Working Dogs"
+            },
+            "id": {
+                "curseforge": "1160842"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "workdog-1.20.1-0.1.2-lite.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6100/608/workdog-1.20.1-0.1.2-lite.jar",
+                    "id": "6100608",
+                    "parent_id": "1160842",
+                    "hashes": {
+                        "sha1": "93fe46270e2835ac8f71b2b2efef6ddb5ae2cedc",
+                        "md5": "ea6bca45e6dd86c54a7f65bcf3d83b27"
+                    },
+                    "required_dependencies": [],
+                    "size": 1737560,
+                    "date_published": "2025-01-18T19:38:20.873Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "QV5tIIKkrnwadl6S",
             "type": "MOD",
             "slug": {
@@ -5629,6 +6408,42 @@
                     "required_dependencies": [],
                     "size": 633986,
                     "date_published": "2025-05-11T02:48:08.517Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "s416pkNWAnuevS4w",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "zawa-evolved"
+            },
+            "name": {
+                "curseforge": "Zoo and Wild Animals: Evolved (ZAWA)"
+            },
+            "id": {
+                "curseforge": "581942"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "zawa-1.20.1-1.1.0-IntelligentAnimals3-alpha4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://edge.forgecdn.net/files/6819/994/zawa-1.20.1-1.1.0-IntelligentAnimals3-alpha4.jar",
+                    "id": "6819994",
+                    "parent_id": "581942",
+                    "hashes": {
+                        "sha1": "1c81d74f8365faab5d1814c12fbadd599974f6ac",
+                        "md5": "553aa11edd7fc80e08817a47a59c1f98"
+                    },
+                    "required_dependencies": [],
+                    "size": 6858275,
+                    "date_published": "2025-07-28T05:31:49.753Z"
                 }
             ]
         },
